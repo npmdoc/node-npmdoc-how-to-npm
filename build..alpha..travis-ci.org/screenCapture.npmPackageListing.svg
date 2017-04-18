@@ -1,158 +1,158 @@
 <svg height="2478" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2478" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-04 17:57:29 +0000   150287 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-04 17:57:29 +0000     1207 byte  COLLABORATORS.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-04 17:57:29 +0000      961 byte  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-04 17:57:29 +0000      765 byte  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-04 17:57:29 +0000     1138 byte  README.md</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 03:59:02 +0000   150287 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 03:59:02 +0000     1207 bytes  COLLABORATORS.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 03:59:02 +0000      961 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 03:59:02 +0000      765 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 03:59:02 +0000     1138 bytes  README.md</tspan>
 <tspan x="10" y="106">ls: cannot access assets/images/Workshopper: No such file or directory</tspan>
 <tspan x="10" y="122">ls: cannot access screen.png: No such file or directory</tspan>
-<tspan x="10" y="138">  5.  2017-04-04 17:57:29 +0000     1138 byte  assets/images/Workshopper screen.png</tspan>
-<tspan x="10" y="154">  6.  2017-04-04 17:57:29 +0000      280 byte  assets/registry-update/@linclark/pkg/-/pkg-1.0.3.\</tspan>
-<tspan x="10" y="170">tgz</tspan>
-<tspan x="10" y="186">  7.  2017-04-04 17:57:29 +0000     3055 byte  assets/registry-update/@linclark/pkg/body.json</tspan>
-<tspan x="10" y="202">  8.  2017-04-04 17:57:29 +0000      279 byte  assets/registry/@linclark/pkg/-/pkg-1.0.2.tgz</tspan>
-<tspan x="10" y="218">  9.  2017-04-04 17:57:29 +0000     2403 byte  assets/registry/@linclark/pkg/body.json</tspan>
-<tspan x="10" y="234"> 10.  2017-04-04 17:57:29 +0000     2010 byte  assets/registry/wrappy/-/wrappy-1.0.1.tgz</tspan>
-<tspan x="10" y="250"> 11.  2017-04-04 17:57:29 +0000     3357 byte  assets/registry/wrappy/body.json</tspan>
-<tspan x="10" y="266"> 12.  2017-04-04 17:57:29 +0000     6577 byte  i18n/en.json</tspan>
-<tspan x="10" y="282"> 13.  2017-04-04 17:57:29 +0000     6750 byte  i18n/es.json</tspan>
-<tspan x="10" y="298"> 14.  2017-04-04 17:57:29 +0000     7535 byte  i18n/fr.json</tspan>
-<tspan x="10" y="314"> 15.  2017-04-04 17:57:29 +0000     9280 byte  i18n/ja.json</tspan>
-<tspan x="10" y="330"> 16.  2017-04-04 17:57:29 +0000     2464 byte  index.js</tspan>
-<tspan x="10" y="346"> 17.  2017-04-04 17:57:29 +0000     7598 byte  lib/registry.js</tspan>
-<tspan x="10" y="362"> 18.  2017-04-04 17:57:29 +0000      335 byte  menu.json</tspan>
-<tspan x="10" y="378"> 19.  2017-04-04 17:57:29 +0000     2929 byte  package.json</tspan>
-<tspan x="10" y="394"> 20.  2017-04-04 17:57:29 +0000     1590 byte  problems/00-install-npm/index.js</tspan>
-<tspan x="10" y="410"> 21.  2017-04-04 17:57:29 +0000      723 byte  problems/00-install-npm/problem.en.txt</tspan>
-<tspan x="10" y="426"> 22.  2017-04-04 17:57:29 +0000      762 byte  problems/00-install-npm/problem.es.txt</tspan>
-<tspan x="10" y="442"> 23.  2017-04-04 17:57:29 +0000      813 byte  problems/00-install-npm/problem.fr.txt</tspan>
-<tspan x="10" y="458"> 24.  2017-04-04 17:57:29 +0000     1018 byte  problems/00-install-npm/problem.ja.txt</tspan>
-<tspan x="10" y="474"> 25.  2017-04-04 17:57:29 +0000      162 byte  problems/00-install-npm/skip.en.txt</tspan>
-<tspan x="10" y="490"> 26.  2017-04-04 17:57:29 +0000      200 byte  problems/00-install-npm/skip.es.txt</tspan>
-<tspan x="10" y="506"> 27.  2017-04-04 17:57:29 +0000      230 byte  problems/00-install-npm/skip.fr.txt</tspan>
-<tspan x="10" y="522"> 28.  2017-04-04 17:57:29 +0000      300 byte  problems/00-install-npm/skip.ja.txt</tspan>
-<tspan x="10" y="538"> 29.  2017-04-04 17:57:29 +0000     1442 byte  problems/01-dev-environment/index.js</tspan>
-<tspan x="10" y="554"> 30.  2017-04-04 17:57:29 +0000      592 byte  problems/01-dev-environment/problem.en.txt</tspan>
-<tspan x="10" y="570"> 31.  2017-04-04 17:57:29 +0000      709 byte  problems/01-dev-environment/problem.es.txt</tspan>
-<tspan x="10" y="586"> 32.  2017-04-04 17:57:29 +0000      494 byte  problems/01-dev-environment/problem.fr.txt</tspan>
-<tspan x="10" y="602"> 33.  2017-04-04 17:57:29 +0000     1066 byte  problems/01-dev-environment/problem.ja.txt</tspan>
-<tspan x="10" y="618"> 34.  2017-04-04 17:57:29 +0000      302 byte  problems/01-dev-environment/success.en.txt</tspan>
-<tspan x="10" y="634"> 35.  2017-04-04 17:57:29 +0000      332 byte  problems/01-dev-environment/success.es.txt</tspan>
-<tspan x="10" y="650"> 36.  2017-04-04 17:57:29 +0000      331 byte  problems/01-dev-environment/success.fr.txt</tspan>
-<tspan x="10" y="666"> 37.  2017-04-04 17:57:29 +0000      483 byte  problems/01-dev-environment/success.ja.txt</tspan>
-<tspan x="10" y="682"> 38.  2017-04-04 17:57:29 +0000     1046 byte  problems/02-login/index.js</tspan>
-<tspan x="10" y="698"> 39.  2017-04-04 17:57:29 +0000      563 byte  problems/02-login/problem.en.txt</tspan>
-<tspan x="10" y="714"> 40.  2017-04-04 17:57:29 +0000      789 byte  problems/02-login/problem.es.txt</tspan>
-<tspan x="10" y="730"> 41.  2017-04-04 17:57:29 +0000      648 byte  problems/02-login/problem.fr.txt</tspan>
-<tspan x="10" y="746"> 42.  2017-04-04 17:57:29 +0000     1175 byte  problems/02-login/problem.ja.txt</tspan>
-<tspan x="10" y="762"> 43.  2017-04-04 17:57:29 +0000      257 byte  problems/03-start-a-project/continue.en.txt</tspan>
-<tspan x="10" y="778"> 44.  2017-04-04 17:57:29 +0000      270 byte  problems/03-start-a-project/continue.es.txt</tspan>
-<tspan x="10" y="794"> 45.  2017-04-04 17:57:29 +0000      323 byte  problems/03-start-a-project/continue.fr.txt</tspan>
-<tspan x="10" y="810"> 46.  2017-04-04 17:57:29 +0000      466 byte  problems/03-start-a-project/continue.ja.txt</tspan>
-<tspan x="10" y="826"> 47.  2017-04-04 17:57:29 +0000     1066 byte  problems/03-start-a-project/index.js</tspan>
-<tspan x="10" y="842"> 48.  2017-04-04 17:57:29 +0000      444 byte  problems/03-start-a-project/problem.en.txt</tspan>
-<tspan x="10" y="858"> 49.  2017-04-04 17:57:29 +0000      492 byte  problems/03-start-a-project/problem.es.txt</tspan>
-<tspan x="10" y="874"> 50.  2017-04-04 17:57:29 +0000      537 byte  problems/03-start-a-project/problem.fr.txt</tspan>
-<tspan x="10" y="890"> 51.  2017-04-04 17:57:29 +0000      757 byte  problems/03-start-a-project/problem.ja.txt</tspan>
-<tspan x="10" y="906"> 52.  2017-04-04 17:57:29 +0000      227 byte  problems/03-start-a-project/suggestion.en.txt</tspan>
-<tspan x="10" y="922"> 53.  2017-04-04 17:57:29 +0000      278 byte  problems/03-start-a-project/suggestion.es.txt</tspan>
-<tspan x="10" y="938"> 54.  2017-04-04 17:57:29 +0000      244 byte  problems/03-start-a-project/suggestion.fr.txt</tspan>
-<tspan x="10" y="954"> 55.  2017-04-04 17:57:29 +0000      468 byte  problems/03-start-a-project/suggestion.ja.txt</tspan>
-<tspan x="10" y="970"> 56.  2017-04-04 17:57:29 +0000      630 byte  problems/04-install-a-module/index.js</tspan>
-<tspan x="10" y="986"> 57.  2017-04-04 17:57:29 +0000      505 byte  problems/04-install-a-module/problem.en.txt</tspan>
-<tspan x="10" y="1002"> 58.  2017-04-04 17:57:29 +0000      743 byte  problems/04-install-a-module/problem.es.txt</tspan>
-<tspan x="10" y="1018"> 59.  2017-04-04 17:57:29 +0000      610 byte  problems/04-install-a-module/problem.fr.txt</tspan>
-<tspan x="10" y="1034"> 60.  2017-04-04 17:57:29 +0000      765 byte  problems/04-install-a-module/problem.ja.txt</tspan>
-<tspan x="10" y="1050"> 61.  2017-04-04 17:57:29 +0000      899 byte  problems/05-listing-dependencies/continue.en.txt</tspan>
-<tspan x="10" y="1066"> 62.  2017-04-04 17:57:29 +0000      999 byte  problems/05-listing-dependencies/continue.es.txt</tspan>
-<tspan x="10" y="1082"> 63.  2017-04-04 17:57:29 +0000     1151 byte  problems/05-listing-dependencies/continue.fr.txt</tspan>
-<tspan x="10" y="1098"> 64.  2017-04-04 17:57:29 +0000     1447 byte  problems/05-listing-dependencies/continue.ja.txt</tspan>
-<tspan x="10" y="1114"> 65.  2017-04-04 17:57:29 +0000     1551 byte  problems/05-listing-dependencies/index.js</tspan>
-<tspan x="10" y="1130"> 66.  2017-04-04 17:57:29 +0000      398 byte  problems/05-listing-dependencies/problem.en.txt</tspan>
-<tspan x="10" y="1146"> 67.  2017-04-04 17:57:29 +0000      424 byte  problems/05-listing-dependencies/problem.es.txt</tspan>
-<tspan x="10" y="1162"> 68.  2017-04-04 17:57:29 +0000      451 byte  problems/05-listing-dependencies/problem.fr.txt</tspan>
-<tspan x="10" y="1178"> 69.  2017-04-04 17:57:29 +0000      584 byte  problems/05-listing-dependencies/problem.ja.txt</tspan>
-<tspan x="10" y="1194"> 70.  2017-04-04 17:57:29 +0000      933 byte  problems/06-npm-test/index.js</tspan>
-<tspan x="10" y="1210"> 71.  2017-04-04 17:57:29 +0000     1177 byte  problems/06-npm-test/problem.en.txt</tspan>
-<tspan x="10" y="1226"> 72.  2017-04-04 17:57:29 +0000     1355 byte  problems/06-npm-test/problem.es.txt</tspan>
-<tspan x="10" y="1242"> 73.  2017-04-04 17:57:29 +0000     1348 byte  problems/06-npm-test/problem.fr.txt</tspan>
-<tspan x="10" y="1258"> 74.  2017-04-04 17:57:29 +0000     1769 byte  problems/06-npm-test/problem.ja.txt</tspan>
-<tspan x="10" y="1274"> 75.  2017-04-04 17:57:29 +0000     1086 byte  problems/07-package-niceties/index.js</tspan>
-<tspan x="10" y="1290"> 76.  2017-04-04 17:57:29 +0000      713 byte  problems/07-package-niceties/problem.en.txt</tspan>
-<tspan x="10" y="1306"> 77.  2017-04-04 17:57:29 +0000     1006 byte  problems/07-package-niceties/problem.es.txt</tspan>
-<tspan x="10" y="1322"> 78.  2017-04-04 17:57:29 +0000      843 byte  problems/07-package-niceties/problem.fr.txt</tspan>
-<tspan x="10" y="1338"> 79.  2017-04-04 17:57:29 +0000     1164 byte  problems/07-package-niceties/problem.ja.txt</tspan>
-<tspan x="10" y="1354"> 80.  2017-04-04 17:57:29 +0000     1005 byte  problems/08-publish/index.js</tspan>
-<tspan x="10" y="1370"> 81.  2017-04-04 17:57:29 +0000      548 byte  problems/08-publish/problem.en.txt</tspan>
-<tspan x="10" y="1386"> 82.  2017-04-04 17:57:29 +0000      591 byte  problems/08-publish/problem.es.txt</tspan>
-<tspan x="10" y="1402"> 83.  2017-04-04 17:57:29 +0000      673 byte  problems/08-publish/problem.fr.txt</tspan>
-<tspan x="10" y="1418"> 84.  2017-04-04 17:57:29 +0000      897 byte  problems/08-publish/problem.ja.txt</tspan>
-<tspan x="10" y="1434"> 85.  2017-04-04 17:57:29 +0000      796 byte  problems/08-publish/success.en.txt</tspan>
-<tspan x="10" y="1450"> 86.  2017-04-04 17:57:29 +0000      972 byte  problems/08-publish/success.es.txt</tspan>
-<tspan x="10" y="1466"> 87.  2017-04-04 17:57:29 +0000      918 byte  problems/08-publish/success.fr.txt</tspan>
-<tspan x="10" y="1482"> 88.  2017-04-04 17:57:29 +0000     1383 byte  problems/08-publish/success.ja.txt</tspan>
-<tspan x="10" y="1498"> 89.  2017-04-04 17:57:29 +0000      923 byte  problems/09-version/index.js</tspan>
-<tspan x="10" y="1514"> 90.  2017-04-04 17:57:29 +0000     1271 byte  problems/09-version/problem.en.txt</tspan>
-<tspan x="10" y="1530"> 91.  2017-04-04 17:57:29 +0000     1381 byte  problems/09-version/problem.es.txt</tspan>
-<tspan x="10" y="1546"> 92.  2017-04-04 17:57:29 +0000     1519 byte  problems/09-version/problem.fr.txt</tspan>
-<tspan x="10" y="1562"> 93.  2017-04-04 17:57:29 +0000     1911 byte  problems/09-version/problem.ja.txt</tspan>
-<tspan x="10" y="1578"> 94.  2017-04-04 17:57:29 +0000     1205 byte  problems/10-publish-again/index.js</tspan>
-<tspan x="10" y="1594"> 95.  2017-04-04 17:57:29 +0000      439 byte  problems/10-publish-again/problem.en.txt</tspan>
-<tspan x="10" y="1610"> 96.  2017-04-04 17:57:29 +0000      482 byte  problems/10-publish-again/problem.es.txt</tspan>
-<tspan x="10" y="1626"> 97.  2017-04-04 17:57:29 +0000      546 byte  problems/10-publish-again/problem.fr.txt</tspan>
-<tspan x="10" y="1642"> 98.  2017-04-04 17:57:29 +0000      702 byte  problems/10-publish-again/problem.ja.txt</tspan>
-<tspan x="10" y="1658"> 99.  2017-04-04 17:57:29 +0000      785 byte  problems/11-dist-tag/index.js</tspan>
-<tspan x="10" y="1674">100.  2017-04-04 17:57:29 +0000     1051 byte  problems/11-dist-tag/problem.en.txt</tspan>
-<tspan x="10" y="1690">101.  2017-04-04 17:57:29 +0000     1323 byte  problems/11-dist-tag/problem.es.txt</tspan>
-<tspan x="10" y="1706">102.  2017-04-04 17:57:29 +0000     1196 byte  problems/11-dist-tag/problem.fr.txt</tspan>
-<tspan x="10" y="1722">103.  2017-04-04 17:57:29 +0000     1679 byte  problems/11-dist-tag/problem.ja.txt</tspan>
-<tspan x="10" y="1738">104.  2017-04-04 17:57:29 +0000      297 byte  problems/11-dist-tag/success.en.txt</tspan>
-<tspan x="10" y="1754">105.  2017-04-04 17:57:29 +0000      450 byte  problems/11-dist-tag/success.es.txt</tspan>
-<tspan x="10" y="1770">106.  2017-04-04 17:57:29 +0000      370 byte  problems/11-dist-tag/success.fr.txt</tspan>
-<tspan x="10" y="1786">107.  2017-04-04 17:57:29 +0000      487 byte  problems/11-dist-tag/success.ja.txt</tspan>
-<tspan x="10" y="1802">108.  2017-04-04 17:57:29 +0000     1184 byte  problems/12-dist-tag-removal/index.js</tspan>
-<tspan x="10" y="1818">109.  2017-04-04 17:57:29 +0000      467 byte  problems/12-dist-tag-removal/problem.en.txt</tspan>
-<tspan x="10" y="1834">110.  2017-04-04 17:57:29 +0000      683 byte  problems/12-dist-tag-removal/problem.es.txt</tspan>
-<tspan x="10" y="1850">111.  2017-04-04 17:57:29 +0000      555 byte  problems/12-dist-tag-removal/problem.fr.txt</tspan>
-<tspan x="10" y="1866">112.  2017-04-04 17:57:29 +0000      782 byte  problems/12-dist-tag-removal/problem.ja.txt</tspan>
-<tspan x="10" y="1882">113.  2017-04-04 17:57:29 +0000       96 byte  problems/12-dist-tag-removal/success.en.txt</tspan>
-<tspan x="10" y="1898">114.  2017-04-04 17:57:29 +0000      141 byte  problems/12-dist-tag-removal/success.es.txt</tspan>
-<tspan x="10" y="1914">115.  2017-04-04 17:57:29 +0000      108 byte  problems/12-dist-tag-removal/success.fr.txt</tspan>
-<tspan x="10" y="1930">116.  2017-04-04 17:57:29 +0000      153 byte  problems/12-dist-tag-removal/success.ja.txt</tspan>
-<tspan x="10" y="1946">117.  2017-04-04 17:57:29 +0000     1107 byte  problems/13-outdated/index.js</tspan>
-<tspan x="10" y="1962">118.  2017-04-04 17:57:29 +0000      569 byte  problems/13-outdated/problem.en.txt</tspan>
-<tspan x="10" y="1978">119.  2017-04-04 17:57:29 +0000      593 byte  problems/13-outdated/problem.es.txt</tspan>
-<tspan x="10" y="1994">120.  2017-04-04 17:57:29 +0000      657 byte  problems/13-outdated/problem.fr.txt</tspan>
-<tspan x="10" y="2010">121.  2017-04-04 17:57:29 +0000      878 byte  problems/13-outdated/problem.ja.txt</tspan>
-<tspan x="10" y="2026">122.  2017-04-04 17:57:29 +0000      174 byte  problems/13-outdated/success.en.txt</tspan>
-<tspan x="10" y="2042">123.  2017-04-04 17:57:29 +0000      169 byte  problems/13-outdated/success.es.txt</tspan>
-<tspan x="10" y="2058">124.  2017-04-04 17:57:29 +0000      199 byte  problems/13-outdated/success.fr.txt</tspan>
-<tspan x="10" y="2074">125.  2017-04-04 17:57:29 +0000      226 byte  problems/13-outdated/success.ja.txt</tspan>
-<tspan x="10" y="2090">126.  2017-04-04 17:57:29 +0000      620 byte  problems/14-update/index.js</tspan>
-<tspan x="10" y="2106">127.  2017-04-04 17:57:29 +0000      484 byte  problems/14-update/problem.en.txt</tspan>
-<tspan x="10" y="2122">128.  2017-04-04 17:57:29 +0000      547 byte  problems/14-update/problem.es.txt</tspan>
-<tspan x="10" y="2138">129.  2017-04-04 17:57:29 +0000      581 byte  problems/14-update/problem.fr.txt</tspan>
-<tspan x="10" y="2154">130.  2017-04-04 17:57:29 +0000      801 byte  problems/14-update/problem.ja.txt</tspan>
-<tspan x="10" y="2170">131.  2017-04-04 17:57:29 +0000      877 byte  problems/15-rm/index.js</tspan>
-<tspan x="10" y="2186">132.  2017-04-04 17:57:29 +0000      507 byte  problems/15-rm/problem.en.txt</tspan>
-<tspan x="10" y="2202">133.  2017-04-04 17:57:29 +0000      455 byte  problems/15-rm/problem.es.txt</tspan>
-<tspan x="10" y="2218">134.  2017-04-04 17:57:29 +0000      607 byte  problems/15-rm/problem.fr.txt</tspan>
-<tspan x="10" y="2234">135.  2017-04-04 17:57:29 +0000      834 byte  problems/15-rm/problem.ja.txt</tspan>
-<tspan x="10" y="2250">136.  2017-04-04 17:57:29 +0000      175 byte  problems/15-rm/success.en.txt</tspan>
-<tspan x="10" y="2266">137.  2017-04-04 17:57:29 +0000      136 byte  problems/15-rm/success.es.txt</tspan>
-<tspan x="10" y="2282">138.  2017-04-04 17:57:29 +0000      210 byte  problems/15-rm/success.fr.txt</tspan>
-<tspan x="10" y="2298">139.  2017-04-04 17:57:29 +0000      277 byte  problems/15-rm/success.ja.txt</tspan>
-<tspan x="10" y="2314">140.  2017-04-04 17:57:29 +0000      841 byte  problems/16-finale/index.js</tspan>
-<tspan x="10" y="2330">141.  2017-04-04 17:57:29 +0000      224 byte  problems/16-finale/problem.en.txt</tspan>
-<tspan x="10" y="2346">142.  2017-04-04 17:57:29 +0000      208 byte  problems/16-finale/problem.es.txt</tspan>
-<tspan x="10" y="2362">143.  2017-04-04 17:57:29 +0000      246 byte  problems/16-finale/problem.fr.txt</tspan>
-<tspan x="10" y="2378">144.  2017-04-04 17:57:29 +0000      411 byte  problems/16-finale/problem.ja.txt</tspan>
-<tspan x="10" y="2394">145.  2017-04-04 17:57:29 +0000      542 byte  problems/16-finale/success.en.txt</tspan>
-<tspan x="10" y="2410">146.  2017-04-04 17:57:29 +0000      439 byte  problems/16-finale/success.es.txt</tspan>
-<tspan x="10" y="2426">147.  2017-04-04 17:57:29 +0000      628 byte  problems/16-finale/success.fr.txt</tspan>
-<tspan x="10" y="2442">148.  2017-04-04 17:57:29 +0000      824 byte  problems/16-finale/success.ja.txt</tspan>
-<tspan x="10" y="2458">149.  2017-04-04 17:57:29 +0000       61 byte  workshop-npmrc</tspan>
+<tspan x="10" y="138">  5.  2017-04-18 03:59:02 +0000     1138 bytes  assets/images/Workshopper screen.png</tspan>
+<tspan x="10" y="154">  6.  2017-04-18 03:59:02 +0000      280 bytes  assets/registry-update/@linclark/pkg/-/pkg-1.0.3\</tspan>
+<tspan x="10" y="170">.tgz</tspan>
+<tspan x="10" y="186">  7.  2017-04-18 03:59:02 +0000     3055 bytes  assets/registry-update/@linclark/pkg/body.json</tspan>
+<tspan x="10" y="202">  8.  2017-04-18 03:59:02 +0000      279 bytes  assets/registry/@linclark/pkg/-/pkg-1.0.2.tgz</tspan>
+<tspan x="10" y="218">  9.  2017-04-18 03:59:02 +0000     2403 bytes  assets/registry/@linclark/pkg/body.json</tspan>
+<tspan x="10" y="234"> 10.  2017-04-18 03:59:02 +0000     2010 bytes  assets/registry/wrappy/-/wrappy-1.0.1.tgz</tspan>
+<tspan x="10" y="250"> 11.  2017-04-18 03:59:02 +0000     3357 bytes  assets/registry/wrappy/body.json</tspan>
+<tspan x="10" y="266"> 12.  2017-04-18 03:59:02 +0000     6577 bytes  i18n/en.json</tspan>
+<tspan x="10" y="282"> 13.  2017-04-18 03:59:02 +0000     6750 bytes  i18n/es.json</tspan>
+<tspan x="10" y="298"> 14.  2017-04-18 03:59:02 +0000     7535 bytes  i18n/fr.json</tspan>
+<tspan x="10" y="314"> 15.  2017-04-18 03:59:02 +0000     9280 bytes  i18n/ja.json</tspan>
+<tspan x="10" y="330"> 16.  2017-04-18 03:59:02 +0000     2464 bytes  index.js</tspan>
+<tspan x="10" y="346"> 17.  2017-04-18 03:59:02 +0000     7598 bytes  lib/registry.js</tspan>
+<tspan x="10" y="362"> 18.  2017-04-18 03:59:02 +0000      335 bytes  menu.json</tspan>
+<tspan x="10" y="378"> 19.  2017-04-18 03:59:02 +0000     2929 bytes  package.json</tspan>
+<tspan x="10" y="394"> 20.  2017-04-18 03:59:02 +0000     1590 bytes  problems/00-install-npm/index.js</tspan>
+<tspan x="10" y="410"> 21.  2017-04-18 03:59:02 +0000      723 bytes  problems/00-install-npm/problem.en.txt</tspan>
+<tspan x="10" y="426"> 22.  2017-04-18 03:59:02 +0000      762 bytes  problems/00-install-npm/problem.es.txt</tspan>
+<tspan x="10" y="442"> 23.  2017-04-18 03:59:02 +0000      813 bytes  problems/00-install-npm/problem.fr.txt</tspan>
+<tspan x="10" y="458"> 24.  2017-04-18 03:59:02 +0000     1018 bytes  problems/00-install-npm/problem.ja.txt</tspan>
+<tspan x="10" y="474"> 25.  2017-04-18 03:59:02 +0000      162 bytes  problems/00-install-npm/skip.en.txt</tspan>
+<tspan x="10" y="490"> 26.  2017-04-18 03:59:02 +0000      200 bytes  problems/00-install-npm/skip.es.txt</tspan>
+<tspan x="10" y="506"> 27.  2017-04-18 03:59:02 +0000      230 bytes  problems/00-install-npm/skip.fr.txt</tspan>
+<tspan x="10" y="522"> 28.  2017-04-18 03:59:02 +0000      300 bytes  problems/00-install-npm/skip.ja.txt</tspan>
+<tspan x="10" y="538"> 29.  2017-04-18 03:59:02 +0000     1442 bytes  problems/01-dev-environment/index.js</tspan>
+<tspan x="10" y="554"> 30.  2017-04-18 03:59:02 +0000      592 bytes  problems/01-dev-environment/problem.en.txt</tspan>
+<tspan x="10" y="570"> 31.  2017-04-18 03:59:02 +0000      709 bytes  problems/01-dev-environment/problem.es.txt</tspan>
+<tspan x="10" y="586"> 32.  2017-04-18 03:59:02 +0000      494 bytes  problems/01-dev-environment/problem.fr.txt</tspan>
+<tspan x="10" y="602"> 33.  2017-04-18 03:59:02 +0000     1066 bytes  problems/01-dev-environment/problem.ja.txt</tspan>
+<tspan x="10" y="618"> 34.  2017-04-18 03:59:02 +0000      302 bytes  problems/01-dev-environment/success.en.txt</tspan>
+<tspan x="10" y="634"> 35.  2017-04-18 03:59:02 +0000      332 bytes  problems/01-dev-environment/success.es.txt</tspan>
+<tspan x="10" y="650"> 36.  2017-04-18 03:59:02 +0000      331 bytes  problems/01-dev-environment/success.fr.txt</tspan>
+<tspan x="10" y="666"> 37.  2017-04-18 03:59:02 +0000      483 bytes  problems/01-dev-environment/success.ja.txt</tspan>
+<tspan x="10" y="682"> 38.  2017-04-18 03:59:02 +0000     1046 bytes  problems/02-login/index.js</tspan>
+<tspan x="10" y="698"> 39.  2017-04-18 03:59:02 +0000      563 bytes  problems/02-login/problem.en.txt</tspan>
+<tspan x="10" y="714"> 40.  2017-04-18 03:59:02 +0000      789 bytes  problems/02-login/problem.es.txt</tspan>
+<tspan x="10" y="730"> 41.  2017-04-18 03:59:02 +0000      648 bytes  problems/02-login/problem.fr.txt</tspan>
+<tspan x="10" y="746"> 42.  2017-04-18 03:59:02 +0000     1175 bytes  problems/02-login/problem.ja.txt</tspan>
+<tspan x="10" y="762"> 43.  2017-04-18 03:59:02 +0000      257 bytes  problems/03-start-a-project/continue.en.txt</tspan>
+<tspan x="10" y="778"> 44.  2017-04-18 03:59:02 +0000      270 bytes  problems/03-start-a-project/continue.es.txt</tspan>
+<tspan x="10" y="794"> 45.  2017-04-18 03:59:02 +0000      323 bytes  problems/03-start-a-project/continue.fr.txt</tspan>
+<tspan x="10" y="810"> 46.  2017-04-18 03:59:02 +0000      466 bytes  problems/03-start-a-project/continue.ja.txt</tspan>
+<tspan x="10" y="826"> 47.  2017-04-18 03:59:02 +0000     1066 bytes  problems/03-start-a-project/index.js</tspan>
+<tspan x="10" y="842"> 48.  2017-04-18 03:59:02 +0000      444 bytes  problems/03-start-a-project/problem.en.txt</tspan>
+<tspan x="10" y="858"> 49.  2017-04-18 03:59:02 +0000      492 bytes  problems/03-start-a-project/problem.es.txt</tspan>
+<tspan x="10" y="874"> 50.  2017-04-18 03:59:02 +0000      537 bytes  problems/03-start-a-project/problem.fr.txt</tspan>
+<tspan x="10" y="890"> 51.  2017-04-18 03:59:02 +0000      757 bytes  problems/03-start-a-project/problem.ja.txt</tspan>
+<tspan x="10" y="906"> 52.  2017-04-18 03:59:02 +0000      227 bytes  problems/03-start-a-project/suggestion.en.txt</tspan>
+<tspan x="10" y="922"> 53.  2017-04-18 03:59:02 +0000      278 bytes  problems/03-start-a-project/suggestion.es.txt</tspan>
+<tspan x="10" y="938"> 54.  2017-04-18 03:59:02 +0000      244 bytes  problems/03-start-a-project/suggestion.fr.txt</tspan>
+<tspan x="10" y="954"> 55.  2017-04-18 03:59:02 +0000      468 bytes  problems/03-start-a-project/suggestion.ja.txt</tspan>
+<tspan x="10" y="970"> 56.  2017-04-18 03:59:02 +0000      630 bytes  problems/04-install-a-module/index.js</tspan>
+<tspan x="10" y="986"> 57.  2017-04-18 03:59:02 +0000      505 bytes  problems/04-install-a-module/problem.en.txt</tspan>
+<tspan x="10" y="1002"> 58.  2017-04-18 03:59:02 +0000      743 bytes  problems/04-install-a-module/problem.es.txt</tspan>
+<tspan x="10" y="1018"> 59.  2017-04-18 03:59:02 +0000      610 bytes  problems/04-install-a-module/problem.fr.txt</tspan>
+<tspan x="10" y="1034"> 60.  2017-04-18 03:59:02 +0000      765 bytes  problems/04-install-a-module/problem.ja.txt</tspan>
+<tspan x="10" y="1050"> 61.  2017-04-18 03:59:02 +0000      899 bytes  problems/05-listing-dependencies/continue.en.txt</tspan>
+<tspan x="10" y="1066"> 62.  2017-04-18 03:59:02 +0000      999 bytes  problems/05-listing-dependencies/continue.es.txt</tspan>
+<tspan x="10" y="1082"> 63.  2017-04-18 03:59:02 +0000     1151 bytes  problems/05-listing-dependencies/continue.fr.txt</tspan>
+<tspan x="10" y="1098"> 64.  2017-04-18 03:59:02 +0000     1447 bytes  problems/05-listing-dependencies/continue.ja.txt</tspan>
+<tspan x="10" y="1114"> 65.  2017-04-18 03:59:02 +0000     1551 bytes  problems/05-listing-dependencies/index.js</tspan>
+<tspan x="10" y="1130"> 66.  2017-04-18 03:59:02 +0000      398 bytes  problems/05-listing-dependencies/problem.en.txt</tspan>
+<tspan x="10" y="1146"> 67.  2017-04-18 03:59:02 +0000      424 bytes  problems/05-listing-dependencies/problem.es.txt</tspan>
+<tspan x="10" y="1162"> 68.  2017-04-18 03:59:02 +0000      451 bytes  problems/05-listing-dependencies/problem.fr.txt</tspan>
+<tspan x="10" y="1178"> 69.  2017-04-18 03:59:02 +0000      584 bytes  problems/05-listing-dependencies/problem.ja.txt</tspan>
+<tspan x="10" y="1194"> 70.  2017-04-18 03:59:02 +0000      933 bytes  problems/06-npm-test/index.js</tspan>
+<tspan x="10" y="1210"> 71.  2017-04-18 03:59:02 +0000     1177 bytes  problems/06-npm-test/problem.en.txt</tspan>
+<tspan x="10" y="1226"> 72.  2017-04-18 03:59:02 +0000     1355 bytes  problems/06-npm-test/problem.es.txt</tspan>
+<tspan x="10" y="1242"> 73.  2017-04-18 03:59:02 +0000     1348 bytes  problems/06-npm-test/problem.fr.txt</tspan>
+<tspan x="10" y="1258"> 74.  2017-04-18 03:59:02 +0000     1769 bytes  problems/06-npm-test/problem.ja.txt</tspan>
+<tspan x="10" y="1274"> 75.  2017-04-18 03:59:02 +0000     1086 bytes  problems/07-package-niceties/index.js</tspan>
+<tspan x="10" y="1290"> 76.  2017-04-18 03:59:02 +0000      713 bytes  problems/07-package-niceties/problem.en.txt</tspan>
+<tspan x="10" y="1306"> 77.  2017-04-18 03:59:02 +0000     1006 bytes  problems/07-package-niceties/problem.es.txt</tspan>
+<tspan x="10" y="1322"> 78.  2017-04-18 03:59:02 +0000      843 bytes  problems/07-package-niceties/problem.fr.txt</tspan>
+<tspan x="10" y="1338"> 79.  2017-04-18 03:59:02 +0000     1164 bytes  problems/07-package-niceties/problem.ja.txt</tspan>
+<tspan x="10" y="1354"> 80.  2017-04-18 03:59:02 +0000     1005 bytes  problems/08-publish/index.js</tspan>
+<tspan x="10" y="1370"> 81.  2017-04-18 03:59:02 +0000      548 bytes  problems/08-publish/problem.en.txt</tspan>
+<tspan x="10" y="1386"> 82.  2017-04-18 03:59:02 +0000      591 bytes  problems/08-publish/problem.es.txt</tspan>
+<tspan x="10" y="1402"> 83.  2017-04-18 03:59:02 +0000      673 bytes  problems/08-publish/problem.fr.txt</tspan>
+<tspan x="10" y="1418"> 84.  2017-04-18 03:59:02 +0000      897 bytes  problems/08-publish/problem.ja.txt</tspan>
+<tspan x="10" y="1434"> 85.  2017-04-18 03:59:02 +0000      796 bytes  problems/08-publish/success.en.txt</tspan>
+<tspan x="10" y="1450"> 86.  2017-04-18 03:59:02 +0000      972 bytes  problems/08-publish/success.es.txt</tspan>
+<tspan x="10" y="1466"> 87.  2017-04-18 03:59:02 +0000      918 bytes  problems/08-publish/success.fr.txt</tspan>
+<tspan x="10" y="1482"> 88.  2017-04-18 03:59:02 +0000     1383 bytes  problems/08-publish/success.ja.txt</tspan>
+<tspan x="10" y="1498"> 89.  2017-04-18 03:59:02 +0000      923 bytes  problems/09-version/index.js</tspan>
+<tspan x="10" y="1514"> 90.  2017-04-18 03:59:02 +0000     1271 bytes  problems/09-version/problem.en.txt</tspan>
+<tspan x="10" y="1530"> 91.  2017-04-18 03:59:02 +0000     1381 bytes  problems/09-version/problem.es.txt</tspan>
+<tspan x="10" y="1546"> 92.  2017-04-18 03:59:02 +0000     1519 bytes  problems/09-version/problem.fr.txt</tspan>
+<tspan x="10" y="1562"> 93.  2017-04-18 03:59:02 +0000     1911 bytes  problems/09-version/problem.ja.txt</tspan>
+<tspan x="10" y="1578"> 94.  2017-04-18 03:59:02 +0000     1205 bytes  problems/10-publish-again/index.js</tspan>
+<tspan x="10" y="1594"> 95.  2017-04-18 03:59:02 +0000      439 bytes  problems/10-publish-again/problem.en.txt</tspan>
+<tspan x="10" y="1610"> 96.  2017-04-18 03:59:02 +0000      482 bytes  problems/10-publish-again/problem.es.txt</tspan>
+<tspan x="10" y="1626"> 97.  2017-04-18 03:59:02 +0000      546 bytes  problems/10-publish-again/problem.fr.txt</tspan>
+<tspan x="10" y="1642"> 98.  2017-04-18 03:59:02 +0000      702 bytes  problems/10-publish-again/problem.ja.txt</tspan>
+<tspan x="10" y="1658"> 99.  2017-04-18 03:59:02 +0000      785 bytes  problems/11-dist-tag/index.js</tspan>
+<tspan x="10" y="1674">100.  2017-04-18 03:59:02 +0000     1051 bytes  problems/11-dist-tag/problem.en.txt</tspan>
+<tspan x="10" y="1690">101.  2017-04-18 03:59:02 +0000     1323 bytes  problems/11-dist-tag/problem.es.txt</tspan>
+<tspan x="10" y="1706">102.  2017-04-18 03:59:02 +0000     1196 bytes  problems/11-dist-tag/problem.fr.txt</tspan>
+<tspan x="10" y="1722">103.  2017-04-18 03:59:02 +0000     1679 bytes  problems/11-dist-tag/problem.ja.txt</tspan>
+<tspan x="10" y="1738">104.  2017-04-18 03:59:02 +0000      297 bytes  problems/11-dist-tag/success.en.txt</tspan>
+<tspan x="10" y="1754">105.  2017-04-18 03:59:02 +0000      450 bytes  problems/11-dist-tag/success.es.txt</tspan>
+<tspan x="10" y="1770">106.  2017-04-18 03:59:02 +0000      370 bytes  problems/11-dist-tag/success.fr.txt</tspan>
+<tspan x="10" y="1786">107.  2017-04-18 03:59:02 +0000      487 bytes  problems/11-dist-tag/success.ja.txt</tspan>
+<tspan x="10" y="1802">108.  2017-04-18 03:59:02 +0000     1184 bytes  problems/12-dist-tag-removal/index.js</tspan>
+<tspan x="10" y="1818">109.  2017-04-18 03:59:02 +0000      467 bytes  problems/12-dist-tag-removal/problem.en.txt</tspan>
+<tspan x="10" y="1834">110.  2017-04-18 03:59:02 +0000      683 bytes  problems/12-dist-tag-removal/problem.es.txt</tspan>
+<tspan x="10" y="1850">111.  2017-04-18 03:59:02 +0000      555 bytes  problems/12-dist-tag-removal/problem.fr.txt</tspan>
+<tspan x="10" y="1866">112.  2017-04-18 03:59:02 +0000      782 bytes  problems/12-dist-tag-removal/problem.ja.txt</tspan>
+<tspan x="10" y="1882">113.  2017-04-18 03:59:02 +0000       96 bytes  problems/12-dist-tag-removal/success.en.txt</tspan>
+<tspan x="10" y="1898">114.  2017-04-18 03:59:02 +0000      141 bytes  problems/12-dist-tag-removal/success.es.txt</tspan>
+<tspan x="10" y="1914">115.  2017-04-18 03:59:02 +0000      108 bytes  problems/12-dist-tag-removal/success.fr.txt</tspan>
+<tspan x="10" y="1930">116.  2017-04-18 03:59:02 +0000      153 bytes  problems/12-dist-tag-removal/success.ja.txt</tspan>
+<tspan x="10" y="1946">117.  2017-04-18 03:59:02 +0000     1107 bytes  problems/13-outdated/index.js</tspan>
+<tspan x="10" y="1962">118.  2017-04-18 03:59:02 +0000      569 bytes  problems/13-outdated/problem.en.txt</tspan>
+<tspan x="10" y="1978">119.  2017-04-18 03:59:02 +0000      593 bytes  problems/13-outdated/problem.es.txt</tspan>
+<tspan x="10" y="1994">120.  2017-04-18 03:59:02 +0000      657 bytes  problems/13-outdated/problem.fr.txt</tspan>
+<tspan x="10" y="2010">121.  2017-04-18 03:59:02 +0000      878 bytes  problems/13-outdated/problem.ja.txt</tspan>
+<tspan x="10" y="2026">122.  2017-04-18 03:59:02 +0000      174 bytes  problems/13-outdated/success.en.txt</tspan>
+<tspan x="10" y="2042">123.  2017-04-18 03:59:02 +0000      169 bytes  problems/13-outdated/success.es.txt</tspan>
+<tspan x="10" y="2058">124.  2017-04-18 03:59:02 +0000      199 bytes  problems/13-outdated/success.fr.txt</tspan>
+<tspan x="10" y="2074">125.  2017-04-18 03:59:02 +0000      226 bytes  problems/13-outdated/success.ja.txt</tspan>
+<tspan x="10" y="2090">126.  2017-04-18 03:59:02 +0000      620 bytes  problems/14-update/index.js</tspan>
+<tspan x="10" y="2106">127.  2017-04-18 03:59:02 +0000      484 bytes  problems/14-update/problem.en.txt</tspan>
+<tspan x="10" y="2122">128.  2017-04-18 03:59:02 +0000      547 bytes  problems/14-update/problem.es.txt</tspan>
+<tspan x="10" y="2138">129.  2017-04-18 03:59:02 +0000      581 bytes  problems/14-update/problem.fr.txt</tspan>
+<tspan x="10" y="2154">130.  2017-04-18 03:59:02 +0000      801 bytes  problems/14-update/problem.ja.txt</tspan>
+<tspan x="10" y="2170">131.  2017-04-18 03:59:02 +0000      877 bytes  problems/15-rm/index.js</tspan>
+<tspan x="10" y="2186">132.  2017-04-18 03:59:02 +0000      507 bytes  problems/15-rm/problem.en.txt</tspan>
+<tspan x="10" y="2202">133.  2017-04-18 03:59:02 +0000      455 bytes  problems/15-rm/problem.es.txt</tspan>
+<tspan x="10" y="2218">134.  2017-04-18 03:59:02 +0000      607 bytes  problems/15-rm/problem.fr.txt</tspan>
+<tspan x="10" y="2234">135.  2017-04-18 03:59:02 +0000      834 bytes  problems/15-rm/problem.ja.txt</tspan>
+<tspan x="10" y="2250">136.  2017-04-18 03:59:02 +0000      175 bytes  problems/15-rm/success.en.txt</tspan>
+<tspan x="10" y="2266">137.  2017-04-18 03:59:02 +0000      136 bytes  problems/15-rm/success.es.txt</tspan>
+<tspan x="10" y="2282">138.  2017-04-18 03:59:02 +0000      210 bytes  problems/15-rm/success.fr.txt</tspan>
+<tspan x="10" y="2298">139.  2017-04-18 03:59:02 +0000      277 bytes  problems/15-rm/success.ja.txt</tspan>
+<tspan x="10" y="2314">140.  2017-04-18 03:59:02 +0000      841 bytes  problems/16-finale/index.js</tspan>
+<tspan x="10" y="2330">141.  2017-04-18 03:59:02 +0000      224 bytes  problems/16-finale/problem.en.txt</tspan>
+<tspan x="10" y="2346">142.  2017-04-18 03:59:02 +0000      208 bytes  problems/16-finale/problem.es.txt</tspan>
+<tspan x="10" y="2362">143.  2017-04-18 03:59:02 +0000      246 bytes  problems/16-finale/problem.fr.txt</tspan>
+<tspan x="10" y="2378">144.  2017-04-18 03:59:02 +0000      411 bytes  problems/16-finale/problem.ja.txt</tspan>
+<tspan x="10" y="2394">145.  2017-04-18 03:59:02 +0000      542 bytes  problems/16-finale/success.en.txt</tspan>
+<tspan x="10" y="2410">146.  2017-04-18 03:59:02 +0000      439 bytes  problems/16-finale/success.es.txt</tspan>
+<tspan x="10" y="2426">147.  2017-04-18 03:59:02 +0000      628 bytes  problems/16-finale/success.fr.txt</tspan>
+<tspan x="10" y="2442">148.  2017-04-18 03:59:02 +0000      824 bytes  problems/16-finale/success.ja.txt</tspan>
+<tspan x="10" y="2458">149.  2017-04-18 03:59:02 +0000       61 bytes  workshop-npmrc</tspan>
 </text>
 </svg>
