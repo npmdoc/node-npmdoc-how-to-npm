@@ -1,6 +1,6 @@
 # npmdoc-how-to-npm
 
-#### api documentation for  [how-to-npm (v2.4.2)](https://github.com/workshopper/how-to-npm#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-how-to-npm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-how-to-npm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-how-to-npm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-how-to-npm)
+#### basic api documentation for  [how-to-npm (v2.4.2)](https://github.com/workshopper/how-to-npm#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-how-to-npm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-how-to-npm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-how-to-npm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-how-to-npm)
 
 #### A module to teach you how to module.
 
